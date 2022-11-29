@@ -7,9 +7,9 @@ on this their chosen battle field
 sword and spear
 wall of shields
 standing strong 
-<<<<<<< HEAD
-on this their chosen battle field
-=======
-on this their chosen battle field
 
->>>>>>> feature
+for tag only
+
+
+
+
